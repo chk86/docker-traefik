@@ -114,3 +114,4 @@ appdata/nginx/sites/*
 !appdata/nginx/common
 appdata/nginx/common/*
 !appdata/nginx/common/*.example
+archives/traefik_v1/.DS_Store
